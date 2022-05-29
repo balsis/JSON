@@ -1,7 +1,7 @@
 # Practice with GIT & JSON
 
  1. Создать внешний репозиторий c названием JSON.
-	  //репозиторий создан https://github.com/balsis/JSON
+	```  //репозиторий создан https://github.com/balsis/JSON ```
  2. Клонировать репозиторий JSON на локальный компьютер.
   	$ git clone https://github.com/balsis/JSON.git
  3. Внутри локального JSON создать файл “new.json”.
