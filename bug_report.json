@@ -1,0 +1,15 @@
+{
+  "bug_report" :
+  [
+    "Id",
+    "Title
+    "Severity",
+    "Priority",
+    "Description",
+    "Environment",
+    "STR",
+    "Expected result",
+    "Actual result",
+    "Attachments "
+   ]
+}
