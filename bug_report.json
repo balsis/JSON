@@ -2,7 +2,7 @@
   "bug_report" :
   [
     "Id",
-    "Title"
+    "Title",
     "Severity",
     "Priority",
     "Description",
